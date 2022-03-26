@@ -1,5 +1,10 @@
 # MechaCar_Statistical_Analysis
 
+## Summary
+
+This analysis does statistical analysis using R on new product data for a AutosRUs.
+
+
 ## Linear Regression to Predict MPG
 
 1. Vehicle Length, ground clearance and intercept provided a non-random amount of variance to the mpg values in the dataset.
