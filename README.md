@@ -21,7 +21,8 @@ When we look at the data at a lot level. Lot1 and Lot2 meet the variance specifi
 
 ## T-Tests on Suspension Coils
 
-
+There is a statistical difference between the distribution means from Lot 3 and the population. The p value is high.
 
 ![Deliverable_3_Pop_T-Test.png](https://github.com/Brandonkish1/MechaCar_Statistical_Analysis/blob/main/images/Deliverable_3_Pop_T-Test.png)
 ![Deliverable_3_Lot_T-Tests.png](https://github.com/Brandonkish1/MechaCar_Statistical_Analysis/blob/main/images/Deliverable_3_Lot_T-Tests.png)
+
