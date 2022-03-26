@@ -18,3 +18,10 @@ Looking at the total summary it appears that the manufacturing data meets this s
 When we look at the data at a lot level. Lot1 and Lot2 meet the variance specification but Lot 3 does not. 
 
 ![Deliverable_2_Lot_Summary.png](https://github.com/Brandonkish1/MechaCar_Statistical_Analysis/blob/main/images/Deliverable_2_Lot_Summary.png)
+
+## T-Tests on Suspension Coils
+
+
+
+![Deliverable_3_Pop_T-Test.png](https://github.com/Brandonkish1/MechaCar_Statistical_Analysis/blob/main/images/Deliverable_3_Pop_T-Test.png)
+![Deliverable_3_Lot_T-Tests.png](https://github.com/Brandonkish1/MechaCar_Statistical_Analysis/blob/main/images/Deliverable_3_Lot_T-Tests.png)
