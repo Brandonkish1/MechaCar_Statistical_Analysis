@@ -6,4 +6,4 @@
 2. The slope of the linear model is not considered 0 because the pvalue is less than .05. 
 3. The linear model does predict mpg of MechaCar prototypes effectively because the r squared value is 0.7149, closer to 1.
 
-![]()
+![Challenge_Deliverable_1.png](https://github.com/Brandonkish1/MechaCar_Statistical_Analysis/blob/main/images/Challenge_Deliverable_1.png)
