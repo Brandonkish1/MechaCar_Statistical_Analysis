@@ -27,3 +27,4 @@ There is a statistical difference between the distribution means from Lot 3 and 
 ![Deliverable_3_Lot_T-Tests.png](https://github.com/Brandonkish1/MechaCar_Statistical_Analysis/blob/main/images/Deliverable_3_Lot_T-Tests.png)
 
 ## Study Design: MechaCar vs Competition
+To compare MechaCar to its competition the best test to use would be an ANOVA test. You could compare the means accross the samples in each of the falling categories cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. If the p-value is greater than .05 then both MechaCar and its competition perform similarly. If the p-value is less than .05 then the categories above are statistically different. You would have to look at the averages in each category vs. the competitor to determine if MechaCar performs better or worse than the competition.
