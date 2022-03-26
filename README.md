@@ -26,3 +26,4 @@ There is a statistical difference between the distribution means from Lot 3 and 
 ![Deliverable_3_Pop_T-Test.png](https://github.com/Brandonkish1/MechaCar_Statistical_Analysis/blob/main/images/Deliverable_3_Pop_T-Test.png)
 ![Deliverable_3_Lot_T-Tests.png](https://github.com/Brandonkish1/MechaCar_Statistical_Analysis/blob/main/images/Deliverable_3_Lot_T-Tests.png)
 
+## Study Design: MechaCar vs Competition
